@@ -1,0 +1,5 @@
+/src/__pycache__/
+/src/agents/__pycache__/
+/src/schemas/__pycache__/
+/src/tools/__pycache__/
+/.env
